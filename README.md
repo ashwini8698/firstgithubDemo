@@ -1,3 +1,3 @@
 # firstgithubDemo
-This is my first git repository
-Author:ashwini Thakare
+This is my first git repository.
+Author:ashwini Thakare.
